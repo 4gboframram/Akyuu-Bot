@@ -1,0 +1,17 @@
+**/*.c
+*.egg-info
+build
+dist
+test.png
+run.cmd
+revised.gba
+**/__pycache__
+**/*.pyd
+**/target
+**/_native.py
+**/*__ffi.py
+**/*.ups
+**/*.gba
+*.png
+**/*.sav
+

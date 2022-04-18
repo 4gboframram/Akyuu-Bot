@@ -1,0 +1,1 @@
+pipenv shell "/c python setup.py install && cls && cd ./build && python -m akyuu_bot"

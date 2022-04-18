@@ -1,0 +1,9 @@
+Pillow~=8.1.2
+setuptools~=61.2.0
+Cython~=0.29.28
+attrs~=21.4.0
+aiohttp~=3.8.1
+
+pathlib~=1.0.1
+aiofiles~=0.8.0
+tenacity~=5.1.5
