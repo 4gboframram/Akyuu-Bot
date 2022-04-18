@@ -14,4 +14,6 @@ revised.gba
 **/*.gba
 *.png
 **/*.sav
+**/*.ss*
+Pipfile.lock
 
