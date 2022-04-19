@@ -103,6 +103,8 @@ class BotData:
     BONEKA_DATA_PATH: str = 'boneka_data.json'
     PATCH_PATH: str = 'patch.ups'
 
+    IGNORE_PARENT_DIR_IN_ZIP_FILE: bool = True
+    
     BONEKA_EMBED_COLOR: int = 0xB4528D
     DEV_SERVERS: list[int] = [855529286953467945]
     DEVELOPERS: list[int] = [692981485975633950, 218853068790300674]

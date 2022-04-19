@@ -16,4 +16,5 @@ revised.gba
 **/*.sav
 **/*.ss*
 Pipfile.lock
+*.toml
 
